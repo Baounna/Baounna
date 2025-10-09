@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Baounna
 
-<!--
-**Baounna/Baounna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a final-year Computer Engineering & Artificial Intelligence student  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I’m passionate about:
+- Machine Learning 🤖
+- Big Data 📊
+- Web Development 🌐
+
+🔧 I work with:
+- Languages: Python, Java, C, JavaScript
+- Web: HTML5, CSS3
+- Databases: SQL, NoSQL
+- Tools: Linux, UML, DevOps
+
+🚀 I’m currently looking for an **internship** or **real-world projects**  
+to apply my knowledge and grow as a future engineer.
+
+📫 **Let’s connect!**
+- [LinkedIn Profile](https://www.linkedin.com/in/baounna-mohamed)  
+- 📩 bna.mohamed.511@gmail.com
