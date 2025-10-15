@@ -18,7 +18,7 @@
 to apply my knowledge and grow as a future engineer.
 
 📫 **Let’s connect!**
-- [LinkedIn Profile](https://www.linkedin.com/in/mohamed-baounna-135b5036a/)  
+- [LinkedIn Profile](https://www.linkedin.com/in/baounna/)  
 - 📩 bna.mohamed.511@gmail.com
 
 - ---
