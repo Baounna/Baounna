@@ -20,3 +20,13 @@ to apply my knowledge and grow as a future engineer.
 📫 **Let’s connect!**
 - [LinkedIn Profile](https://www.linkedin.com/in/mohamed-baounna-135b5036a/)  
 - 📩 bna.mohamed.511@gmail.com
+
+- ---
+
+### 🎓 Certifications
+
+- [Introduction to Big Data – Simplilearn SkillUp](https://simpli-web.app.link/e/AN8vWzmbuXb) *(October 2025)*  
+  Learned the fundamentals of Big Data, including Hadoop, Spark, and distributed systems.  
+  *Issued by Simplilearn SkillUp*
+
+
