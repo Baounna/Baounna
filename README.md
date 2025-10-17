@@ -43,8 +43,18 @@
 to apply my knowledge and grow as a future engineer.
 
 📫 **Let’s connect!**
-- [LinkedIn Profile](https://www.linkedin.com/in/baounna/)  
-- 📩 bna.mohamed.511@gmail.com
+
+<a href="https://linkedin.com/in/mohamed-baounna-135b5036a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:bna.mohamed.511@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+<p><strong>Portfolio: </p></strong>
+ <a href="https://portfolio-baounna.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-🌐%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 
 - ---
 
@@ -53,5 +63,18 @@ to apply my knowledge and grow as a future engineer.
 - [Introduction to Big Data – Simplilearn SkillUp](https://simpli-web.app.link/e/AN8vWzmbuXb) *(October 2025)*  
   Learned the fundamentals of Big Data, including Hadoop, Spark, and distributed systems.  
   *Issued by Simplilearn SkillUp*
+
+- ---
+
+## 📊 My GitHub Stats  
+
+<p align="center">
+  <a href="https://github.com/Baounna">
+    <img src="https://github-readme-stats.vercel.app/api?username=Baounna&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117" width="450" />
+  </a>
+  <a href="https://github.com/Baounna">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baounna&layout=compact&theme=radical&hide_border=false&bg_color=0D1117" width="350" />
+  </a>
+</p>
 
 
