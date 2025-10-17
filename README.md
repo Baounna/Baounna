@@ -65,8 +65,8 @@ to apply my knowledge and grow as a future engineer.
   *Issued by Simplilearn SkillUp*
 
 - ---
-
-## 📊 My GitHub Stats  
+### 📊 My GitHub Stats
+ 
 
 <p align="center">
   <a href="https://github.com/Baounna">
@@ -76,5 +76,8 @@ to apply my knowledge and grow as a future engineer.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baounna&layout=compact&theme=radical&hide_border=false&bg_color=0D1117" width="350" />
   </a>
 </p>
+
+
+
 
 
