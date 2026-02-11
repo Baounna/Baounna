@@ -1,30 +1,58 @@
-<h1 align="center">Mohamed Baounna</h1>
-<h3 align="center">AI & Information Systems Student | Machine Learning | Big Data | Web Development</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Baounna.Baounna&left_color=royalblue&right_color=black" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/baounna" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;I'm+Baounna+Mohamed!;" />
+</h1>
+
+<h3 align="center">AI & Information Systems Student from Morocco 🇲🇦</h3>
+
+<br/>
+
+<div align="center">
+
+🎓 Licence d'Excellence in **Information Systems & AI (SIIA)** at Sultan Moulay Slimane University
+
+🏭 Former intern at **OCP Group**
+
+🤖 Passionate about **Machine Learning**, **Big Data** & **Web Development**
+
+🌱 Currently exploring **Deep Learning** & **NLP**
+
+📫 Reach me at **bna.mohamed.511@gmail.com**
+
+</div>
+
+<div align="center"> 
   <a href="mailto:bna.mohamed.511@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/baounna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://baounna-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
-### About Me
+### 🎓 Education
 
-- Licence d'Excellence student in **Information Systems & AI (SIIA)** at Sultan Moulay Slimane University, Khouribga
-- Former **DEUG in Computer Engineering & AI (IIIA)**
-- Completed an internship at **OCP Group** (Aug - Sep 2025)
-- Certified in Machine Learning, Big Data, DevOps, and Network Security through IBM & Coursera
+| Period | Degree | Institution |
+|--------|--------|-------------|
+| 2025 - 2026 | **Licence d'Excellence — Information Systems & AI (SIIA)** | FP Khouribga, Sultan Moulay Slimane University |
+| 2023 - 2025 | **DEUG — Computer Engineering & AI (IIIA)** | FP Khouribga, Sultan Moulay Slimane University |
+| Aug - Sep 2025 | **Internship** | OCP Group, Khouribga Integrated Platform |
 
 ---
 
-### Tech Stack
+### 📚 Relevant Coursework
+
+`Data Structures & Algorithms` `Machine Learning` `Artificial Intelligence` `Natural Language Processing` `Big Data Ecosystems` `Database Systems (SQL/NoSQL)` `Computer Networks` `Operating Systems` `Web Development` `Object-Oriented Programming` `Python Programming` `Probability & Statistics` `UML & DevOps` `LaTeX`
+
+---
+
+### ⚒️ Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
@@ -36,24 +64,46 @@
 
 ---
 
-### Featured Projects
+### 🏆 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Flight Delay Prediction](https://github.com/Baounna/flight-delay-prediction) | Big Data project using Spark MLlib to predict flight delays with Flask API & Streamlit dashboard | Python, Spark, Flask |
-| [Spam Detection ML](https://github.com/Baounna/spam-detection-ml) | SMS spam classification using TF-IDF and Naive Bayes | Python, Scikit-learn |
-| [Dijkstra Shortest Path](https://github.com/Baounna/Dijkstra-Shortest-Path) | Dijkstra's algorithm in C using adjacency matrices | C |
-| [Boston Housing](https://github.com/Baounna/boston_housing) | House price prediction with regression models | Python, NumPy, Pandas |
+<p align="center">
+  <a href="https://github.com/Baounna/flight-delay-prediction">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Baounna&repo=flight-delay-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Baounna/spam-detection-ml">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Baounna&repo=spam-detection-ml&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Baounna/Dijkstra-Shortest-Path">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Baounna&repo=Dijkstra-Shortest-Path&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Baounna/boston_housing">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Baounna&repo=boston_housing&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baounna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baounna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="350" />
-</p>
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Baounna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baounna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baounna&theme=tokyonight&hide_border=true&background=0D1117" width="450" />
-</p>
+<br/>
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Baounna&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baounna&custom_title=Baounna's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-0D1117?style=for-the-badge" />
+</div>
