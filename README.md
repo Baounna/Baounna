@@ -60,31 +60,16 @@
 
 ### 🏆 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Baounna/flight-delay-prediction">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Baounna&repo=flight-delay-prediction&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Baounna/spam-detection-ml">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Baounna&repo=spam-detection-ml&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Baounna/Dijkstra-Shortest-Path">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Baounna&repo=Dijkstra-Shortest-Path&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Baounna/boston_housing">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Baounna&repo=boston_housing&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🛫 Flight Delay Prediction](https://github.com/Baounna/flight-delay-prediction) | Big Data project using Spark MLlib to predict flight delays with Flask API & Streamlit dashboard | `Python` `Spark` `Flask` `Streamlit` |
+| [📱 Spam Detection ML](https://github.com/Baounna/spam-detection-ml) | SMS spam classification using TF-IDF and Naive Bayes | `Python` `Scikit-learn` `NLTK` |
+| [🧠 Dijkstra Shortest Path](https://github.com/Baounna/Dijkstra-Shortest-Path) | Dijkstra's algorithm in C using adjacency matrices | `C` `Algorithms` |
+| [🏠 Boston Housing](https://github.com/Baounna/boston_housing) | House price prediction with regression models | `Python` `Pandas` `NumPy` |
 
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Baounna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baounna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
-<br/>
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Baounna&theme=tokyonight&hide_border=true&background=0D1117" />
