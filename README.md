@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Baounna.Baounna&left_color=royalblue&right_color=black" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;I'm+Baounna+Mohamed!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=3B82F6&lines=Hello+There!+👋;I'm+Baounna+Mohamed!;" />
 </h1>
 
-<h3 align="center">AI & Information Systems Student from Morocco 🇲🇦</h3>
+<h3 align="center">AI & Information Systems Student</h3>
 
 <br/>
 
@@ -43,12 +43,6 @@
 | 2025 - 2026 | **Licence d'Excellence — Information Systems & AI (SIIA)** | FP Khouribga, Sultan Moulay Slimane University |
 | 2023 - 2025 | **DEUG — Computer Engineering & AI (IIIA)** | FP Khouribga, Sultan Moulay Slimane University |
 | Aug - Sep 2025 | **Internship** | OCP Group, Khouribga Integrated Platform |
-
----
-
-### 📚 Relevant Coursework
-
-`Data Structures & Algorithms` `Machine Learning` `Artificial Intelligence` `Natural Language Processing` `Big Data Ecosystems` `Database Systems (SQL/NoSQL)` `Computer Networks` `Operating Systems` `Web Development` `Object-Oriented Programming` `Python Programming` `Probability & Statistics` `UML & DevOps` `LaTeX`
 
 ---
 
