@@ -62,6 +62,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [🏥 MediGest NoSQL](https://github.com/Baounna/MediGest-NoSQL) | Medical cabinet management system with RBAC, appointment scheduling, patient records & audit logs | `Python` `MongoDB` `Streamlit` `Docker` |
 | [🛫 Flight Delay Prediction](https://github.com/Baounna/flight-delay-prediction) | Big Data project using Spark MLlib to predict flight delays with Flask API & Streamlit dashboard | `Python` `Spark` `Flask` `Streamlit` |
 | [📱 Spam Detection ML](https://github.com/Baounna/spam-detection-ml) | SMS spam classification using TF-IDF and Naive Bayes | `Python` `Scikit-learn` `NLTK` |
 | [🤖 Robot Obstacle Avoidance](https://github.com/Baounna) | Autonomous robot that detects and avoids obstacles using ultrasonic sensors | `Arduino` `C++` `Electronics` |
