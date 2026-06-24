@@ -74,7 +74,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Baounna&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=7F3FBF" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Baounna&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=7F3FBF" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baounna&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" />
 </div>
 
