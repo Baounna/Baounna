@@ -74,13 +74,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Baounna&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baounna&custom_title=Baounna's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Baounna&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=7F3FBF" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baounna&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" />
 </div>
 
 ---
