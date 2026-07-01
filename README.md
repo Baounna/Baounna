@@ -73,11 +73,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Currently
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Baounna&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=7F3FBF" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baounna&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" />
+
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-3B82F6?style=for-the-badge&labelColor=0D1117)
+![Learning](https://img.shields.io/badge/Learning-Deep%20Learning%20%26%20NLP-7F3FBF?style=for-the-badge&labelColor=0D1117)
+![Open to](https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaboration-2ECC71?style=for-the-badge&labelColor=0D1117)
+
+<br/>
+
+🔭 Building **[Lalla AI](https://lalla-ai.vercel.app)** — an AI companion for breast-cancer awareness & early detection
+🌱 Exploring **Deep Learning**, **Computer Vision** & **LLM-powered apps**
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Baounna&style=for-the-badge&color=7F3FBF&label=PROFILE+VIEWS&labelColor=0D1117)
+
 </div>
 
 ---
