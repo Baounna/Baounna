@@ -69,13 +69,6 @@
 | [🏥 MediGest NoSQL](https://github.com/Baounna/MediGest-NoSQL) | Medical cabinet management system with RBAC, appointment scheduling, patient records & audit logs | `Python` `MongoDB` `Streamlit` `Docker` |
 | [🛫 Flight Delay Prediction](https://github.com/Baounna/flight-delay-prediction) | Big Data project using Spark MLlib to predict flight delays with Flask API & Streamlit dashboard | `Python` `Spark` `Flask` `Streamlit` |
 
----------|-------------|------|
-| [🛡️ JobGuard NLP](https://github.com/Baounna/jobguard-nlp) | Job-offer scam detection — classical NLP pipeline (SVM + TF-IDF, F1 = 0.892) with a Streamlit demo | `Python` `NLP` `Scikit-learn` `Streamlit` |
-| [🏥 MediGest NoSQL](https://github.com/Baounna/MediGest-NoSQL) | Medical cabinet management system with RBAC, appointment scheduling, patient records & audit logs | `Python` `MongoDB` `Streamlit` `Docker` |
-| [🛫 Flight Delay Prediction](https://github.com/Baounna/flight-delay-prediction) | Big Data project using Spark MLlib to predict flight delays with Flask API & Streamlit dashboard | `Python` `Spark` `Flask` `Streamlit` |
-| [📱 Spam Detection ML](https://github.com/Baounna/spam-detection-ml) | SMS spam classification using TF-IDF and Naive Bayes | `Python` `Scikit-learn` `NLTK` |
-| [🧠 Dijkstra Shortest Path](https://github.com/Baounna/Dijkstra-Shortest-Path) | Dijkstra's algorithm in C using adjacency matrices | `C` `Algorithms` |
-| [🏠 Boston Housing](https://github.com/Baounna/boston_housing) | House price prediction with regression models | `Python` `Pandas` `NumPy` |
 
 ---
 
