@@ -6,21 +6,9 @@
 
 <h3 align="center">AI & Information Systems Student</h3>
 
-<br/>
-
-<div align="center">
-
-🎓 Licence d'Excellence in **Information Systems & AI (SIIA)** at Sultan Moulay Slimane University
-
-🏭 Former intern at **OCP Group**
-
-🤖 Passionate about **Machine Learning**, **Big Data** & **Web Development**
-
-🌱 Currently exploring **Deep Learning** & **NLP**
-
-📫 Reach me at **bna.mohamed.511@gmail.com**
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Baounna/Baounna/main/assets/system-info.svg?v=1" width="82%" alt="Mohamed Baounna — system.info" />
+</p>
 
 <div align="center"> 
   <a href="mailto:bna.mohamed.511@gmail.com">
