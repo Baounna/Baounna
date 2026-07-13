@@ -92,8 +92,4 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-0D1117?style=for-the-badge" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8B5CF6&height=120&section=footer" alt="footer" />
