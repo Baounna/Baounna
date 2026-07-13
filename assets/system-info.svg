@@ -1,0 +1,68 @@
+<svg width="900" height="600" viewBox="0 0 900 600" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Menlo', monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f16"/>
+      <stop offset="1" stop-color="#0a0d13"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb"/>
+      <stop offset="1" stop-color="#7ee787" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- window -->
+  <rect x="12" y="12" width="876" height="576" rx="16" fill="url(#bg)" stroke="#1f6feb" stroke-opacity="0.55" filter="url(#glow)"/>
+  <rect x="12" y="12" width="876" height="576" rx="16" fill="none" stroke="#30363d" stroke-opacity="0.6"/>
+
+  <!-- title bar -->
+  <path d="M12 28 A16 16 0 0 1 28 12 H872 A16 16 0 0 1 888 28 V56 H12 Z" fill="#11161f"/>
+  <circle cx="42" cy="34" r="6" fill="#ff5f56"/>
+  <circle cx="64" cy="34" r="6" fill="#ffbd2e"/>
+  <circle cx="86" cy="34" r="6" fill="#27c93f"/>
+  <text x="450" y="39" text-anchor="middle" font-size="15" fill="#7d8590">baounna@github: ~/profile — README.md</text>
+
+  <!-- prompt -->
+  <text x="44" y="98" font-size="19" fill="#7ee787">$ ./whoami<tspan fill="#484f58"> --status</tspan></text>
+
+  <!-- SYSTEM.INFO header -->
+  <text x="44" y="140" font-size="18" fill="#bc8cff" font-weight="700">SYSTEM.INFO</text>
+  <line x1="200" y1="135" x2="856" y2="135" stroke="url(#line)" stroke-width="1.5"/>
+
+  <!-- rows: label (blue) + value (light) -->
+  <g font-size="18">
+    <text x="44" y="172"><tspan fill="#58a6ff">Subject</tspan></text>     <text x="250" y="172" fill="#c9d1d9">Mohamed Baounna</text>
+    <text x="44" y="200"><tspan fill="#58a6ff">Role</tspan></text>        <text x="250" y="200" fill="#c9d1d9">AI &amp; Information Systems Student</text>
+    <text x="44" y="228"><tspan fill="#58a6ff">Origin</tspan></text>      <text x="250" y="228" fill="#c9d1d9">Khouribga, Morocco</text>
+    <text x="44" y="256"><tspan fill="#58a6ff">Education</tspan></text>   <text x="250" y="256" fill="#c9d1d9">Licence d'Excellence — SIIA · 2025–26</text>
+    <text x="44" y="284"><tspan fill="#58a6ff">Status</tspan></text>      <text x="250" y="284" fill="#c9d1d9">Building · Learning · Shipping</text>
+    <text x="44" y="312"><tspan fill="#58a6ff">Toolchain</tspan></text>   <text x="250" y="312" fill="#c9d1d9">VS Code · Git · Docker · Linux · LaTeX</text>
+  </g>
+
+  <!-- STACK header -->
+  <text x="44" y="356" font-size="18" fill="#bc8cff" font-weight="700">CORE.STACK</text>
+  <line x1="200" y1="351" x2="856" y2="351" stroke="url(#line)" stroke-width="1.5"/>
+
+  <g font-size="18">
+    <text x="44" y="388"><tspan fill="#58a6ff">Languages</tspan></text>  <text x="250" y="388" fill="#c9d1d9">Python · C/C++ · TypeScript · SQL</text>
+    <text x="44" y="416"><tspan fill="#58a6ff">AI / ML</tspan></text>    <text x="250" y="416" fill="#c9d1d9">PyTorch · TensorFlow · Scikit-learn · NLP</text>
+    <text x="44" y="444"><tspan fill="#58a6ff">Web</tspan></text>        <text x="250" y="444" fill="#c9d1d9">React · Next.js · Flask · Streamlit</text>
+    <text x="44" y="472"><tspan fill="#58a6ff">Data</tspan></text>       <text x="250" y="472" fill="#c9d1d9">Spark · Hadoop · MongoDB · Oracle · NoSQL</text>
+    <text x="44" y="500"><tspan fill="#58a6ff">Infra</tspan></text>      <text x="250" y="500" fill="#c9d1d9">Docker · Git · Netlify · Vercel</text>
+  </g>
+
+  <!-- CONTACT header -->
+  <text x="44" y="544" font-size="18" fill="#bc8cff" font-weight="700">CONTACT</text>
+  <line x1="200" y1="539" x2="856" y2="539" stroke="url(#line)" stroke-width="1.5"/>
+
+  <g font-size="17">
+    <text x="44" y="574"><tspan fill="#58a6ff">Mail</tspan></text>       <text x="250" y="574" fill="#c9d1d9">bna.mohamed.511@gmail.com</text>
+    <text x="560" y="574"><tspan fill="#58a6ff">Web</tspan> <tspan fill="#c9d1d9">baounna-portfolio.netlify.app</tspan></text>
+  </g>
+</svg>
