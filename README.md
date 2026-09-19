@@ -16,9 +16,9 @@
 
 🏭 Former intern at **OCP Group**
 
-🤖 Passionate about **Machine Learning**, **Big Data** & **Web Development**
+🤖 I care about **ML systems that hold up when measured** — eval harnesses, calibration, held-out tests
 
-🌱 Currently exploring **Deep Learning** & **NLP**
+🌱 Currently exploring **agent pipelines**, **LLMs** & **web security**
 
 📫 Reach me at **bna.mohamed.511@gmail.com**
 
@@ -83,7 +83,7 @@
 <div align="center">
 
 ![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-3B82F6?style=for-the-badge&labelColor=0D1117)
-![Learning](https://img.shields.io/badge/Learning-Deep%20Learning%20%26%20NLP-7F3FBF?style=for-the-badge&labelColor=0D1117)
+![Learning](https://img.shields.io/badge/Learning-Agents%20%26%20Web%20Security-7F3FBF?style=for-the-badge&labelColor=0D1117)
 ![Open to](https://img.shields.io/badge/Open%20to-Internships%20%26%20Collaboration-2ECC71?style=for-the-badge&labelColor=0D1117)
 
 <br/>
