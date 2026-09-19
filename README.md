@@ -42,7 +42,8 @@
 |--------|--------|-------------|
 | 2025 - 2026 | **Licence d'Excellence — Information Systems & AI (SIIA)** | FP Khouribga, Sultan Moulay Slimane University |
 | 2023 - 2025 | **DEUG — Computer Engineering & AI (IIIA)** | FP Khouribga, Sultan Moulay Slimane University |
-| Aug - Sep 2025 | **Internship** | OCP Group, Khouribga Integrated Platform |
+| Aug - Sep 2026 | **AI Intern** — internal knowledge assistant (RAG) | 1337, 42 Network |
+| Aug - Sep 2025 | **Observation Internship** | OCP Group, Khouribga Integrated Platform |
 
 ---
 
@@ -64,7 +65,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [📰 AI & Cybersecurity News](https://github.com/Baounna/ai-student-hub) | Bilingual (EN/FR) publication with an autonomous back office — Node agents ingest 21 first-party sources, audit editorial balance and draft with the Claude API; nonce CSP, distributed rate limiting, SSRF/CSRF guards and a self-healing watchdog — [live site](https://ai-student-hub-navy.vercel.app) | `Next.js 16` `React 19` `TypeScript` `AI Agents` `Web Security` |
-| [🔎 RAG Knowledge Assistant](https://github.com/Baounna/rag-knowledge-assistant) | Retrieval-augmented assistant over a document corpus — hybrid search (pgvector + BM25 fused with RRF), verified citations, gated refusal, and its own eval harness (recall@1 0.830, MRR 0.730) | `Python` `RAG` `LLMs` `PostgreSQL` `Docker` |
+| [🔎 RAG Knowledge Assistant](https://github.com/Baounna/rag-knowledge-assistant) | *Built during my 1337 internship.* Retrieval-augmented assistant over a document corpus — hybrid search (pgvector + BM25 fused with RRF), verified citations, gated refusal, and its own eval harness (recall@1 0.830, MRR 0.730) | `Python` `RAG` `LLMs` `PostgreSQL` `Docker` |
 | [⚽ kora — Football Action Valuation](https://github.com/Baounna/kora) | Open-source engine valuing every on-ball action in goals (xG, xT, VAEP); models trained from scratch on 1,547 matches across 23 competitions, matching StatsBomb's proprietary xG (ROC AUC 0.793) with better calibration — [live demo](https://kora-flax-eta.vercel.app) | `Python` `OOP` `Scikit-learn` `CI/CD` |
 | [🎗️ Lalla AI](https://github.com/Baounna/lalla-ai) | AI companion for breast-cancer awareness & early detection — interactive 3D self-exam, on-device pose detection, and an in-browser CNN with Grad-CAM explainability — [live demo](https://lalla-ai.vercel.app) | `Next.js` `TypeScript` `Three.js` `ONNX` `PyTorch` |
 | [🚗 Self-Driving Perception](https://github.com/Baounna/self-driving-parking-dl) | End-to-end autonomous-driving pipeline (YOLOv8 + DeepLabV3+ + UFLD + MiDaS) for perception, navigation & decision | `Python` `PyTorch` `Streamlit` |
