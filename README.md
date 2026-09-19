@@ -85,8 +85,8 @@
 
 <br/>
 
-🔭 Building **[Lalla AI](https://github.com/Baounna/lalla-ai)** — an AI companion for breast-cancer awareness & early detection
-🌱 Exploring **Deep Learning**, **Computer Vision** & **LLM-powered apps**
+🔭 Building **[AI & Cybersecurity News](https://github.com/Baounna/ai-student-hub)** — a bilingual publication run by an autonomous agent pipeline<br/>
+🌱 Exploring **agent pipelines**, **LLM-powered apps** & **web security**
 
 <br/>
 
