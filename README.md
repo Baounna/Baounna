@@ -12,6 +12,8 @@
 
 🎓 Licence d'Excellence in **Information Systems & AI (SIIA)** at Sultan Moulay Slimane University
 
+💼 AI intern at **1337 (42 Network)** — built a RAG knowledge assistant
+
 🏭 Former intern at **OCP Group**
 
 🤖 Passionate about **Machine Learning**, **Big Data** & **Web Development**
