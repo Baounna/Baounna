@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🎓 Licence d'Excellence in **Information Systems & AI (SIIA)** at Sultan Moulay Slimane University
+🎓 **Master d'Excellence** in **Information Systems & AI (SIIA)** at Sultan Moulay Slimane University
 
 💼 AI intern at **1337 (42 Network)** — built a RAG knowledge assistant
 
@@ -42,6 +42,7 @@
 
 | Period | Degree | Institution |
 |--------|--------|-------------|
+| 2026 - 2028 | **Master d'Excellence — Information Systems & AI (SIIA)** | FP Khouribga, Sultan Moulay Slimane University |
 | 2025 - 2026 | **Licence d'Excellence — Information Systems & AI (SIIA)** | FP Khouribga, Sultan Moulay Slimane University |
 | 2023 - 2025 | **DEUG — Computer Engineering & AI (IIIA)** | FP Khouribga, Sultan Moulay Slimane University |
 | Aug - Sep 2026 | **AI Intern** — internal knowledge assistant (RAG) | 1337, 42 Network |
