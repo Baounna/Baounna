@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🎓 **Master's Student in AI & Computer Science** at Sultan Moulay Slimane University
+🎓 **Master's Student in AI & Computer Science**
 
 💼 AI intern at **1337 (42 Network)** — built a RAG knowledge assistant
 
