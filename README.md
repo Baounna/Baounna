@@ -63,6 +63,27 @@
 
 ---
 
+### 🏅 Certifications
+
+<div align="center">
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FD2D00ECECA805D5B0DBB86C3BB6FDF620938A8FCE2BD558AD5F4872D9A46519" target="_blank"><img src="https://img.shields.io/badge/Oracle%20Certified-AI%20Database%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0D1117" /></a>
+</div>
+
+| Certification | Issuer | Year |
+|---|---|---|
+| [Oracle AI Database Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FD2D00ECECA805D5B0DBB86C3BB6FDF620938A8FCE2BD558AD5F4872D9A46519) | Oracle | 2026 |
+| [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/HJE90SGBLHDN) | DeepLearning.AI — Coursera | 2026 |
+| [Machine Learning with Python](https://coursera.org/share/1c315cecc76caa5e95c53238a5d338c2) | IBM — Coursera | 2025 |
+| [Computer Networks & Network Security](https://coursera.org/share/e13563bc5199f8697dbda57f93803bbe) | IBM — Coursera | 2025 |
+| [Code Generation & Optimization Using IBM Granite](https://www.credly.com/badges/e4fb52aa-a729-407e-a72f-1455606fc539) | IBM SkillsBuild | 2025 |
+| [Artificial Intelligence Fundamentals](https://www.credly.com/badges/3e568cc9-e5a7-4e5d-baa5-d0eb1befa4da) | IBM SkillsBuild | 2025 |
+| [Write Smarter with Overleaf & LaTeX](https://www.coursera.org/account/accomplishments/verify/8VQ8FE00H5AL) | Fred Hutchinson Cancer Center — Coursera | 2025 |
+| [Introduction to BigData](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIzODI1IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvOTE3NjkxNF85NTIzMjYyMTc2MDUzMTQ2OTg0Ny5wbmciLCJ1c2VybmFtZSI6IkJhb3VubmEgTW9oYW1lZCJ9) | Simplilearn | 2025 |
+
+*Every entry links to its issuer's verification page.*
+
+---
+
 ### 🏆 Featured Projects
 
 | Project | Description | Tech |
